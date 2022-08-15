@@ -11,3 +11,5 @@
 
   [plugins.inputs]
     enable = false
+[[plugins]]
+  package = "netlify-plugin-reflect"
